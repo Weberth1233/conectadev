@@ -7,7 +7,7 @@ export default class Header extends Component{
                 <header className="header">
                     <div className="toolbar">
                         <div>
-                            <span>Conectar dev</span>
+                            <span>Conectar</span>
                         </div>
                         <div>
                             <button>Novo Post</button>
