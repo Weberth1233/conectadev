@@ -5,11 +5,11 @@ import Button from '@material-ui/core/Button';
 import ListSubheader from '@material-ui/core/ListSubheader'
 import ListItemText from '@material-ui/core/ListItemText';
 import ListItem from '@material-ui/core/ListItem';
-// Custom soacing material ui
-/*Utilizando estilo proprio do theme para aplicar no paper
-padding:theme.spacing(2) o padrão do espace é 8 colocando 2 é
-multiplicado o valor por 2 8*2=16*/
 
+// Custom spacing material ui
+/*Utilizando estilo próprio do theme para aplicar no paper
+padding:theme.spacing(2) o padrão do space é 8 colocando 2 é
+multiplicado o valor por 2 8*2=16*/
 const useStyles = makeStyles((theme) =>({
     root:{
         padding:theme.spacing(2), //8*2
